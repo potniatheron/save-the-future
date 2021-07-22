@@ -1,4 +1,15 @@
-# save-the-future
+# Save The Future Dashboard 
+
+## Preview
+https://dreamy-mestorf-2c2ef9.netlify.app
+
+## Description
+Dashboard Frontend POC for a Save the future. 
+
+## Images
+
+![preview-3](https://user-images.githubusercontent.com/26926683/126617601-91df03c4-3ad5-4ea5-a86f-900cff2dcc9c.png)
+
 
 ## Project setup
 ```
